@@ -1,4 +1,4 @@
-# ☕ Coffee Shop App
+# ☕ Coffee Menu
 
 A simple and stylish **Coffee Shop** landing page built using **HTML5** and **CSS**.  
 This project was created as part of a learning exercise from [FreeCodeCamp.org](https://www.freecodecamp.org), under the **Responsive Web Design Certification**.
